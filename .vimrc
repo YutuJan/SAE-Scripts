@@ -1,5 +1,4 @@
 "Author: Sirinian Aram Emmanouil
-"lel 2
 
 syntax on
 
